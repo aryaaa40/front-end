@@ -22,11 +22,10 @@ const tours = [
         rating: 4.6,
       },
       {
-        name: "Recedivies",
-        rating: 4.6,
+        name: "jhon doe",
+        rating: 5,
       },
     ],
-    
     avgRating: 4.5,
     photo: tourImg01,
     featured: true,
@@ -112,8 +111,8 @@ const tours = [
     title: "Cherry Blossoms Spring",
     city: "Japan",
     distance: 500,
-    address: "Somewhere",
     price: 99,
+    address: "Somewhere",
     maxGroupSize: 8,
     desc: "this is the description",
     reviews: [
@@ -131,13 +130,11 @@ const tours = [
     title: "Holmen Lofoten",
     city: "France",
     distance: 500,
-    address: "Somewhere",
     price: 99,
+    address: "Somewhere",
     maxGroupSize: 8,
     desc: "this is the description",
-    reviews: [
-
-    ],
+    reviews: [],
     avgRating: 4.5,
     photo: tourImg07,
     featured: false,
@@ -147,13 +144,11 @@ const tours = [
     title: "Snowy Mountains, Thailand",
     city: "Thailand",
     distance: 500,
-    address: "Somewhere",
     price: 99,
+    address: "Somewhere",
     maxGroupSize: 8,
     desc: "this is the description",
-    reviews: [
-
-    ],
+    reviews: [],
     avgRating: 4.5,
     photo: tourImg03,
     featured: false,
